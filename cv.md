@@ -1,7 +1,7 @@
 # KAZHENAVA DARYA
 ##### junior layout/front-end developer
 
-![myphoto]: //2015-05-14-09-38-58_deco.jpg
+
 
 ## CONTACTS
 ###### e-mail: ioxorcl@gmail.com
@@ -33,6 +33,6 @@
 
 ## CERTIFICATION
 
-## SKILLUP Minsk
+#### SKILLUP Minsk
 ##### Decemver '18 | Basic Html, Css and Sql
 ##### January - June '18 | Front-end development
