@@ -1,14 +1,15 @@
 # KAZHENAVA DARYA
-junior layout/front-end developer
-![Alt text] (./2015-05-14-09-38-58_deco.jpg?raw=true "photo")
+##### junior layout/front-end developer
+
+![myphoto]: //2015-05-14-09-38-58_deco.jpg
 
 ## CONTACTS
-e-mail: ioxorcl@gmail.com
-telegram: ioxorcl
+###### e-mail: ioxorcl@gmail.com
+###### telegram: ioxorcl
 
 ## LANGUAGES
-RUSSIAN: native;
-ENGLISH: upper-intermidiate;
+###### RUSSIAN: native;
+###### ENGLISH: upper-intermidiate;
 
 > Firs goal is to gain work experience in html and css coding and after that in the long term to become a front-end developer. 
 
@@ -25,13 +26,13 @@ ENGLISH: upper-intermidiate;
 
 ## SKILLS
 
-HTML & CSS
-JavaScript
-SQL
-GIT
+##### HTML & CSS
+##### JavaScript
+##### SQL
+##### GIT
 
 ## CERTIFICATION
 
-SKILLUP Minsk
-Decemver '18 | Basic Html, Css and Sql
-January - June '18 | Front-end development
+## SKILLUP Minsk
+##### Decemver '18 | Basic Html, Css and Sql
+##### January - June '18 | Front-end development
