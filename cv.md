@@ -1,6 +1,6 @@
 # KAZHENAVA DARYA
 junior layout/front-end developer
-![Alt text] (//2015-05-14-09-38-58_deco.jpg?raw=true "photo")
+![Alt text] (./2015-05-14-09-38-58_deco.jpg?raw=true "photo")
 
 ## CONTACTS
 e-mail: ioxorcl@gmail.com
