@@ -1,23 +1,23 @@
 @font-face {
 	font-family: "roboto";
-	src: url(/fonts/roboto-bold.woff) format("woff"),
-			url(/fonts/roboto-bold.woff2) format("woff2");
+	src: url(../fonts/roboto-bold.woff) format("woff"),
+			url(../fonts/roboto-bold.woff2) format("woff2");
 	font-weight: bold;
 	font-style: normal;
 	}
 
 @font-face {
 	font-family: "roboto";
-	src: url(/fonts/roboto-medium.woff) format("woff"),
-			url(/fonts/roboto-medium.woff2) format("woff2");
+	src: url(../fonts/roboto-medium.woff) format("woff"),
+			url(../fonts/roboto-medium.woff2) format("woff2");
 	font-weight: normal;
 	font-style: normal;
 	}
 
 @font-face {
 	font-family: "roboto";
-	src: url(fonts/roboto-light.woff) format("woff"),
-			url(fonts/roboto-light.woff2) format("woff2");
+	src: url(../fonts/roboto-light.woff) format("woff"),
+			url(../fonts/roboto-light.woff2) format("woff2");
 	font-weight: lighter;
 	font-style: normal;
     }
@@ -60,10 +60,18 @@ header {
     flex-direction: row;
     justify-content: flex-start;
 }
-.common-info, .pofessional-info {
-    width: 50%;
+.common-info {
+    width: 40%;
     display: flex;
     flex-direction: column;
+}
+.pofessional-info {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
+.personal-info-photo > img {
+    width: 60%;
 }
 p {
     font-family: roboto;
