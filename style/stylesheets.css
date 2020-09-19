@@ -40,9 +40,7 @@ body {
     
 }
 .container {
-    width: 1200px;
-    font-family: roboto;
-    
+    width: 1200px;  
 }
 
 header {
@@ -50,30 +48,117 @@ header {
     width: 100%;
     display: flex;
     flex-direction: row;
-    border-bottom: 1px solid #545454;
+    border-bottom: 2px solid #545454;
     justify-content: space-between;
     align-items: flex-end;
-    
+    padding-bottom: 10px;  
+}
+.header-name, .header-position > p {
+    font-size: 20px;
+    color: #2b2b2b;
 }
 .inner-container {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+    
 }
 .common-info {
     width: 40%;
     display: flex;
     flex-direction: column;
+    
 }
 .pofessional-info {
     width: 60%;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    
+
+}
+.personal-info-photo {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-top: 20px;
 }
 .personal-info-photo > img {
-    width: 60%;
+    width: 75%;
+    margin: auto;
+}
+.personal-info-name > p {
+    font-size: 48px;
+    letter-spacing: 4px;
+    font-weight: lighter;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+h1 {
+    font-family: roboto;
+    font: bold;
+    font-size: 26px;
+    letter-spacing: 3px;
 }
 p {
     font-family: roboto;
     font-weight: lighter;
+}
+.pofessional-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-left: 1px solid #2b2b2b;
+    padding-left: 50px;
+}
+.personal-info-contacts, .personal-info-languges {
+    height: 100px;
+    padding-left: 50px;
+    line-height: 25px;
+}
+.pofessional-info-education {
+    padding-top: 20px;
+    
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    font-weight: lighter;
+    font-size: 24px;
+}
+.education-secondary > h2 {
+   padding-top: 25px;
+   padding-bottom: 15px;
+   color: #545454;
+}
+.education-high  > h2 {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    color: #545454;
+}
+.pofessional-info-expirience > h2 {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    color: #545454;
+}
+.certification-copany {
+    padding-bottom: 20px;
+}
+.certification-copany > h2 {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    color: #545454;
+}
+.certification-copany > p {
+    line-height: 30px;
+}
+.pofessional-info-skills > ul {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    line-height: 30px;
+    font-size: 18px;
+    letter-spacing: 3px;
 }
