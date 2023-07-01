@@ -5,7 +5,7 @@ discord: daryakozhenova
 ___
 
 ## About me 
-UX/UI designer from Minsk. 31 y.o. 
+UX/UI designer from Minsk. 30 y.o. 
   
 ## Skills 
 - HTML/CSS  
