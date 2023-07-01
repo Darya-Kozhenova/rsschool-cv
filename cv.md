@@ -27,7 +27,7 @@ print(d)
 2016 - currently entrepreneur  
 2021 - currently freelance designer
 
-## Education
+## Education 🎓
 - BSEU  '17 finance and banking  
 - SkillUP  HTML & SQL basics '18  
 - SkillUP  Front-end developing '19  
